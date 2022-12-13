@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    string str = "test string";
+    string str = "harshvardhansingh";
     set<char> set;
     for (int i = 0; i < str.length() - 1; i++)
     {
