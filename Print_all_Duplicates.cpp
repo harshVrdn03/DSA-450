@@ -11,6 +11,6 @@ int main()
     }
     for (auto &element : set)
     {
-        cout << element << " --> " << count(str.begin(), str.end(), element) << endl;
+        cout << element << " " << count(str.begin(), str.end(), element) << endl;
     }
 }

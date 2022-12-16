@@ -1,5 +1,2 @@
-if (ans == target)
-        // {
-        //     cout << "Yes" << endl;
-        //     return;
-        // }
+    int data;
+    Node *next;
